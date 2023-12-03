@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DAClopotaritei
 - 👀 I’m interested in tech, quite the Noob.
-- 🌱 I’m currently learning How to install Vanilla OS :P
+- 🌱 I’m currently learning How use LinuxMint :P
 - 💞️ I’m looking to collaborate on... ehm... whatever I could help with?
 - 📫 How to reach me ... Unsure yet.
 
