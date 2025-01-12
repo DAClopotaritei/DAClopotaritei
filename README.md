@@ -52,7 +52,7 @@ reimbursement.
 - Excel Master (MO211).
 
 ## Community Involvement
-- Member of IT Romania
-- Member of a variety of IT groups on a multitude of platforms.
-- Bugs-Hunter/Feature-Finder
+- Member of IT Romania;
+- Member of a variety of IT groups on a multitude of platforms;
+- Bugs-Hunter/Feature-Finder.
 
