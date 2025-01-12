@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DAClopotaritei
-- 👀 I’m interested in tech, quite the Noob.
+- 👀 I’m interested in tech, still new.
 - 🌱 Currently learning how to code in C & Python; also interested in databases.
-- 💞️ I’m looking to collaborate on... ehm... whatever I could help with?
-- 📫 How to reach me ... Unsure yet.
+- 💞️ I’m looking to collaborate on anything I could help with!
+- 📫 How to reach me... Still Work-In-Progress.
 
 <!---
 DAClopotaritei/DAClopotaritei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
