@@ -7,41 +7,52 @@
 <!---
 DAClopotaritei/DAClopotaritei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-<!---
-[Your Name]
-[no@mail.yet]
-[LinkedIn Profile yet unusable]
 
-## About Me
-Passionate of all things technological,
-particularly benchmark-rating to assess system's viability;
-software-solution procurement, adjustement, and automation;
-Linux-user, experienced in Solus, Ubuntu, Manjaro, Fedora,
-Open-Suse, and settled on Mint.
-
-## Skills
-- Linux
-- Networking
-- Programming in C, Python
-- Excel automation,
-- ...
-
-## Projects
-### Vulnerability Assessment of DVWA
-- Description: Conducted a vulnerability assessment on DVWA.
-- Tools Used: Burp Suite, OWASP ZAP.
-- [Link to GitHub Repository]
-
-### CTF Challenge Solutions
-- Description: Documented solutions for various CTF challenges.
-- [Link to Blog Post]
-
-## Certifications
+Certifications to consider: 
 - CompTIA Security+
 - Certified Ethical Hacker
+--->
+D.A. Clopotaritei
+[no@mail.yet]
+[LinkedIn Profile W.I.P.]
+
+## About Me
+Passionate of all things technological, particularly:
+benchmark-rating to assess system's viability;
+software-solution procurement, adjustement, and automation;
+Using Linux, experienced in Solus, Ubuntu, Manjaro, Fedora,
+Open-Suse, and settled on Mint + whatever else works.
+
+## Skills
+- Linux;
+- Networking;
+- Programming in C, Python;
+- Excel automation;
+- Hardware Selection;
+- Solution-hunting.
+
+## Work Projects
+### Excel Invoicing Tool
+- Description: Based on previous work, developed a tool to
+process invoicing information based on week-day, week-end,
+and holiday times, with syntax n*¦(name)&(size)&(time-type)
+¦price/unit¦line-total.
+- Tools Used: Excel, OnlyOffice.
+
+### Excel Automation
+- Description: Developed an Excel-based Rota model which,
+produced visual representations of the Rota data, and based
+on that, automatically calculated employee salaries + fuel
+reimbursement.
+- Tools USed: Excel.
+
+## Certifications
+- Google Cybersecurity Professional Certificate;
+- Harvard CS50x;
+- Excel Master (MO211).
 
 ## Community Involvement
 - Member of IT Romania
-- Participated in [Hackathon Name]
---->
+- Member of a variety of IT groups on a multitude of platforms.
+- Bugs-Hunter/Feature-Finder
+
